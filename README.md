@@ -55,9 +55,6 @@ const yosia: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YosiaImmanuel&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YosiaImmanuel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&border_radius=12" height="165" alt="Top Languages" />
-
 <img src="https://streak-stats.demolab.com?user=YosiaImmanuel&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=12" height="165" alt="GitHub Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YosiaImmanuel&theme=tokyo-night&hide_border=true&radius=12&area=true" width="90%" alt="Activity Graph" />
