@@ -66,22 +66,6 @@ const yosia: Developer = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YosiaImmanuel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YosiaImmanuel/YosiaImmanuel/output/snake.svg" alt="Snake animation" width="90%" />
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
